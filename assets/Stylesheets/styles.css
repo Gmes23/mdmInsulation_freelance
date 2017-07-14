@@ -543,35 +543,35 @@ h1.logo img {
   padding-top: 90px;
 }
 .hero-carousel .carousel-inner .item-1 {
-  background-image: url('../images/hero/hero-1.jpg');
+  background-image: url('../Images/stockPhotos/hero-1.jpg');
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
 }
 .hero-carousel .carousel-inner .item-2 {
-  background-image: url('../images/hero/hero-2.jpg');
+  background-image: url('../Images/stockPhotos/hero-2.jpg');
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
 }
 .hero-carousel .carousel-inner .item-3 {
-  background-image: url('../images/hero/hero-3.jpg');
+  background-image: url('../Images/stockPhotos/hero-3.jpg');
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
 }
 .hero-carousel .carousel-inner .item-4 {
-  background-image: url('../images/hero/hero-4.jpg');
+  background-image: url('../Images/stockPhotos/hero-4.jpg');
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
 }
 .hero-carousel .carousel-inner .item-5 {
-  background-image: url('../images/hero/hero-5.jpg');
+  background-image: url('../Images/stockPhotos/hero-5.jpg');
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -801,21 +801,21 @@ h1.logo img {
   height: 360px;
 }
 .projects-section .img-holder-1 {
-  background: url('../images/projects/latest/latest-1.jpg') no-repeat center center;
+  background: url('../Images/companyPhotos/gallery_26.jpg') no-repeat center center;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
 }
 .projects-section .img-holder-2 {
-  background: url('../images/projects/latest/latest-2.jpg') no-repeat center center;
+  background: url('../Images/companyPhotos/gallery_25.jpg') no-repeat center center;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
 }
 .projects-section .img-holder-3 {
-  background: url('../images/projects/latest/latest-3.jpg') no-repeat center center;
+  background: url('../Images/companyPhotos/gallery_23.jpg') no-repeat center center;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
